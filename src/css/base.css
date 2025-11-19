@@ -58,12 +58,7 @@ a {
 .btn:hover {
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.3);
 }
-.show {
-  display: block;
-}
-.hide {
-  display: none;
-}
+
 .fade {
   animation-name: fade;
   animation-duration: 0.5s;
@@ -631,4 +626,10 @@ a {
   display: block;
   width: 280px;
   margin: 0 auto;
+}
+.show {
+  display: block;
+}
+.hide {
+  display: none;
 }
